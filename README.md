@@ -1,4 +1,4 @@
-### Hi! 👋🏽
+### Hi folks! 👋🏽
 I'm Caio Kenedy,
 
 a front end developer
