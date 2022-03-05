@@ -2,7 +2,9 @@
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
 About me:
-- 🔭 I’m currently working on this project: [CA&O Bikes](https://github.com/CaioKenedy/CAIO-BIKES)
+- 🔭 I’m currently working on this project: [CA&O Discovery](https://github.com/CaioKenedy/CAIO-Discovery)
+
+- 🖥️ My last project:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/)
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://caiokenedy.github.io)
 
