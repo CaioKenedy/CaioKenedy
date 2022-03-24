@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Caio Kenedy</h1>
-<h3 align="center">A passionate frontend developer from Brazil</h3>
+![banner](https://user-images.githubusercontent.com/99741457/159826532-f383c541-eff8-43f1-a87e-819d26d63ae7.png)
+
 
 About me:
 - 🔭 I’m currently working on this project: [CA&O Discovery](https://caiokenedy.github.io/Caio-Discovery/)
