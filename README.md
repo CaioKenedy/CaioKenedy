@@ -2,8 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23e98431&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Caio+Kenedy;+Welcome+to+My+Profile!;Always+mixing+technology+in+my+daily+tasks;UX+enthusiast+)](https://git.io/typing-svg)
 
+<img src="https://user-images.githubusercontent.com/99741457/159997656-a41c30e1-f1d9-45c2-bdb7-b1326510ab45.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="My Avatar"/>
 
 About me:
+
 - 🔭 I’m currently working on this project: [CA&O Discovery](https://caiokenedy.github.io/Caio-Discovery/)
 
 - 🖥️ My last project:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/)
