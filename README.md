@@ -37,6 +37,9 @@ About me:
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=caiokenedy&show_icons=true&theme=dark" alt="caiokenedy" width="400px" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=caiokenedy&theme=dark" alt="caiokenedy" width="400px" /> </p>
 
 
-
-
+<div align="center">
+  
+![](https://visitor-badge.glitch.me/badge?page_id=CaioKenedy)
+ 
+</div>
  
