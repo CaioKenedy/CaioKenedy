@@ -10,7 +10,7 @@ About me:
 
 - 🖥️ My last project:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/)
 
-- 👨‍💻 All of my projects are available at [my Portfolio](https://caiokenedy.github.io/Portfolio/) (under maintenance)🛠️
+- 👨‍💻 All of my projects are available at [my Portfolio](https://caiokenedy.github.io/Portfolio/)
 
 - 🎓 Control and Automation Engineering Student
 
