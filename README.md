@@ -6,9 +6,9 @@
 
 About me:
 
-- 🔭 I’m currently working on this project: [CA&O Discovery](https://caiokenedy.github.io/Caio-Discovery/)
+- 🔭 I’m currently working on this project: [Let it rain](https://caiokenedy.github.io/let-it-rain/)
+- 🖥️ My last projects:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/) , [CA&O Discovery](https://caiokenedy.github.io/Caio-Discovery/)
 
-- 🖥️ My last project:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/)
 
 - 👨‍💻 All of my projects are available at [my Portfolio](https://caiokenedy.github.io/Portfolio/) (under construction) 🛠️
 
