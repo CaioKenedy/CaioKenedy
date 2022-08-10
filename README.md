@@ -41,6 +41,13 @@ About me:
 <div align="center">
   
 ![](https://visitor-badge.glitch.me/badge?page_id=CaioKenedy)
+  
  
+</div>
+
+<div align="center">
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioKenedy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
  
