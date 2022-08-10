@@ -14,7 +14,7 @@ About me:
 
 - 🎓 Control and Automation Engineering Student
 
-- ❤️ I love UI & UX Design
+- ❤️ Typescript
 
 - 🎹 Everyday i try to mix tech with daily activities
 
