@@ -41,10 +41,11 @@ About me:
 
 <div align="center">
   
-![](https://visitor-badge.glitch.me/badge?page_id=CaioKenedy)
+
   
  
 </div>
+  
 
 
  
