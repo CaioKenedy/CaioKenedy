@@ -12,7 +12,7 @@ About me:
 
 
 
-- 🎓 Control and Automation Engineering Student && Computer Science
+- 🎓 Control and Automation Engineering && Computer Science Student
 
 - ❤️ Typescript
 
