@@ -6,13 +6,13 @@
 
 About me:
 
-- 🔭 I’m currently working on this project: [Let it rain](https://caiokenedy.github.io/let-it-rain/)
-- 🖥️ My last projects:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/) , [CA&O Discovery](https://caiokenedy.github.io/Caio-Discovery/)
+- 🔭 I’m currently working on this project: [Controle de equipamentos](https://github.com/CaioKenedy/controle-de-equipamentos)
+- 🖥️ My last projects:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/) , [EVERYTHING BOUT JAVA](https://github.com/CaioKenedy/java-fosho)
 
 
 
 
-- 🎓 Control and Automation Engineering Student
+- 🎓 Control and Automation Engineering Student && Computer Science
 
 - ❤️ Typescript
 
