@@ -6,7 +6,7 @@
 
 About me:
 
-- 🔭 I’m currently working on this project: [Controle de equipamentos](https://github.com/CaioKenedy/controle-de-equipamentos)
+- 🔭 I’m currently working on these project: [Controle de equipamentos](https://github.com/CaioKenedy/controle-de-equipamentos) , [Api Java SpringBoot](https://github.com/CaioKenedy/api-crud-spring-boot)
 - 🖥️ My last projects:  [CA&O Bikes](https://caiokenedy.github.io/CAIO-BIKES/) , [EVERYTHING BOUT JAVA](https://github.com/CaioKenedy/java-fosho)
 
 
