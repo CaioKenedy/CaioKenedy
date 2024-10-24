@@ -16,7 +16,7 @@ About me:
 
 - ❤️ Typescript
 
-- 🎹 Everyday i try to mix tech with daily activities
+- 🎹 Everyday i try to mix tech into my daily activities
 
 <br>
 <div align="center">
