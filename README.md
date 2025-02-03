@@ -36,7 +36,7 @@ About me:
 <p align="center"> <a href="https://www.java.com/pt-BR/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img   
 <p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>   
 </div>
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=caiokenedy&show_icons=true&theme=ambient_gradient" alt="caiokenedy" width="400px" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiokenedy&layout=compact&theme=ambient_gradient" alt="caiokenedy" width="400px" height="300" /> </p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=caiokenedy&show_icons=true&theme=ambient_gradient" alt="caiokenedy" width="400px height="200" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=caiokenedy&layout=compact&theme=ambient_gradient" alt="caiokenedy" width="400px" height="200" /> </p>
 
 
 <div align="center">
